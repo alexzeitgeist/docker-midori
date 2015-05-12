@@ -1,6 +1,6 @@
 # zeitgeist/docker-midori
 
-Lightweight browser [midori](http://midori-browser.org/) in a Docker container.
+Lightweight browser [Midori](http://midori-browser.org/) in a Docker container.
 
 ## Requirements
 
