@@ -10,7 +10,7 @@
 FROM debian:jessie
 MAINTAINER Alexander Turcic "alex@zeitgeist.se"
 
-ENV DOWNLOAD_URL http://midori-browser.org/downloads/midori_0.5.9-1_amd64_.deb
+ENV DOWNLOAD_URL http://midori-browser.org/downloads/midori_0.5.11-0_amd64_.deb
 
 RUN \
   sed -i 's/http.debian.net/ftp.ch.debian.org/' /etc/apt/sources.list && \
